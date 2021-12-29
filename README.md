@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👇
 
-I am a senior software engineer and [physician-scientist](https://www.hyms.ac.uk/about/people/gordon-mckenzie) 🩺 🧪
+I am a Senior Software Engineer and [Physician-Scientist](https://www.hyms.ac.uk/about/people/gordon-mckenzie) 🩺 🧪
 
 👉 &nbsp; My PhD thesis explored the predictive assessment and optimisation of older adults with cancer. I designed, developed and evaluated an Android application (Kotlin) used in production for National Health Service patients. I also built a dashboard/micro-Electronic Patient Record for clinicians using a React(Nuxt.js)-Node.js-SQL stack. I developed a decision-analytic health economic model using Python to understand the cost-effectiveness of geriatric assessment prior to cancer treatment. I also engineered a complex model of an oncogeriatric population using synthetic data driven by machine learning. 
 
