@@ -6,7 +6,7 @@ I am a Senior Software Engineer and [Physician-Scientist](https://www.hyms.ac.uk
 
 🤔 &nbsp; I'm finalising a digital twin to model older adults with cancer using numerous supervised machine learning algorithms (linear/logistic models, probabilistic graphical modelling, fuzzy logic, gradient-boosted decision trees and neural networks). This is all wrapped within a Python/PyData program, using a pipeline of unit/integration testing, automated analytics and High Performance Computing.
 
-😃 &nbsp; I am the Clinical Lead at [Upstream Health](https://upstream.health) who have developed an Internet of Things device, designed to support informal carers and monitor those under their care called [Bridgit](https://bridgit.care). 
+😃 &nbsp; I am the Clinical Lead at [Upstream Health](https://upstream.health) who have developed an Internet of Things device called [Bridgit](https://bridgit.care), designed to support informal carers and monitor those under their care. 
 
 🌱 &nbsp; I'm starting to add more public repositories, covering a data engineering pipeline from simulating sensor data through to persistence in a data warehouse, with machine learning and analytics in between. 
 
